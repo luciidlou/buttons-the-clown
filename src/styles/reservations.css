@@ -1,0 +1,23 @@
+.reservations-header {
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+}
+.list-container {
+    display: flex;
+    flex-direction: column;
+    width: 75%;
+    padding-left: 0;
+}
+.list-item__reserved {
+    display: flex;
+    justify-content: space-between;
+    padding: 25px;
+    background-color: rgb(127, 255, 255);
+}
+.list-item__completed {
+    display: flex;
+    justify-content: space-between;
+    padding: 25px;
+    background-color: rgb(175, 71, 94);
+}

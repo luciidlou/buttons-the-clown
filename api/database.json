@@ -1,0 +1,42 @@
+{
+  "clowns": [
+    {
+      "id": 1,
+      "name": "Mike"
+    },
+    {
+      "id": 2,
+      "name": "Leslie"
+    }
+  ],
+  "reservations": [
+    {
+      "parentName": "Bob Bobberson",
+      "childName": "Billy Bobberson",
+      "numOfChildren": "4",
+      "address": "8642 Shadowbend Way",
+      "dateToReserve": "2022-01-06",
+      "duration": "3",
+      "id": 1
+    },
+    {
+      "parentName": "Mindy Mulligan",
+      "childName": "Fred Mulligan",
+      "numOfChildren": "2",
+      "address": "642 Willow Court",
+      "dateToReserve": "2022-03-10",
+      "duration": "2",
+      "id": 2
+    },
+    {
+      "parentName": "Marty Mcfly",
+      "childName": "Susie Mcfly",
+      "numOfChildren": "5",
+      "address": "6241 Futures Way",
+      "dateToReserve": "2021-12-04",
+      "duration": "2",
+      "id": 3
+    }
+  ],
+  "completedReservations": []
+}
